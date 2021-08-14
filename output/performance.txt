@@ -1,0 +1,3 @@
+Average F1 score Modified= 0.9439357582593921
+Average F1 score Actual= 0.7386591030792634
+Total execution time = 38.36130738258362 seconds
